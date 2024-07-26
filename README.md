@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @UmairJaved728
 
+- [![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairJaved728)](https://github.com/anuraghazra/github-readme-stats)
+
 [![@umairjaved728's Holopin board](https://holopin.me/umairjaved728)](https://holopin.io/@umairjaved728)
 
 <!---
