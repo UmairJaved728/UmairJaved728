@@ -5,7 +5,7 @@
 
 ---
 
-[![Top Languages](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api/top-langs/?username=UmairJaved728&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api/top-langs/?username=UmairJaved728&layout=donut&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
