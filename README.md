@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @UmairJaved728
 ---
 
+![Umair's GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app)/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api?username=UmairJaved728" />
 </a>
