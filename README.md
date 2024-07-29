@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UmairJaved728
 ---
 
-![Umair's GitHub stats](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api?username=UmairJaved728&show_icons=true&theme=transparent)
+![Umair's GitHub stats](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api?username=UmairJaved728&show_icons=true&theme=transparent&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
