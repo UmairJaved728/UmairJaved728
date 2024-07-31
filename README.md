@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Umair Javed. Experienced Software Engineer with a proven track record of over 1 year in designing and implementing innovative software solutions to optimize business productivity. Proficient across the entire software development lifecycle, from initial concept to deployment. Known for effective leadership, adept at coordinating cross-functional teams in dynamic, deadline-driven environments to deliver projects on time and within budget. Dedicated to leveraging technical expertise and strong problem-solving abilities to drive transformative projects and uphold high standards in software development, ensuring seamless integration and scalability for future growth.
+# Welcome To My GitHub Profile !
+
+<br/>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+</div>
+<br/>
   
 ---
 
