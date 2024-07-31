@@ -6,6 +6,11 @@
 
 ---
 
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UmairJaved728&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+---
+
 [![Top Languages](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api/top-langs/?username=UmairJaved728&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
