@@ -1,8 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/> <br> <br>
-<img src="https://komarev.com/ghpvc/?username=UmairJaved728" alt="https://github.com/UmairJaved728" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/> <br>
   
 ---
 
@@ -24,6 +23,9 @@
 ---
  
 [![@umairjaved728's Holopin board](https://holopin.me/umairjaved728)](https://holopin.io/@umairjaved728)
+
+---
+<img src="https://komarev.com/ghpvc/?username=UmairJaved728" alt="https://github.com/UmairJaved728" />
 
 <!---
 UmairJaved728/UmairJaved728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
