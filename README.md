@@ -2,14 +2,6 @@
 
 **Hello, This is Umair Javed!**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/> <br>
-  
----
-
-![Umair's GitHub stats](https://github-readme-stats-git-master-umair-javeds-projects.vercel.app/api?username=UmairJaved728&show_icons=true&theme=transparent&&show=prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true)
-
----
-
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UmairJaved728&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
