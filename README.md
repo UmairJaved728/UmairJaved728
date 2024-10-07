@@ -1,4 +1,4 @@
-<div align="center" width="45">
+<div align="center" width="55">
 
 **Hi, This is Umair Javed!!**
 
